@@ -1,0 +1,7 @@
+#certTable td:first-child{
+	border-left:1px solid black;
+}
+
+#certTable td:last-child{
+	border-right:1px solid black;
+}
